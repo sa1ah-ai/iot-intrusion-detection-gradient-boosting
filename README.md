@@ -1,4 +1,4 @@
-# IoT Intrusion Detection using Gradient Boosting
+# IoT Intrusion Detection using Gradient Boosting [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17070209.svg)](https://doi.org/10.5281/zenodo.17070209)
 
 A comprehensive machine learning project for detecting IoT network intrusions using various gradient boosting algorithms. This project implements binary classification, 8-class multiclass classification, and full multiclass classification on the CICIoT2023 dataset.
 
